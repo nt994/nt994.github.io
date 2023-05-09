@@ -1,0 +1,151 @@
+Package: com.spark.snowboard
+Version: 1.5.9-Beta3
+Architecture: iphoneos-arm64
+Maintainer: Sparkdev
+Depends: firmware (>=7.0)
+Filename: ./debs/com.spark.snowboard_1.5.11-Beta3_iphoneos-arm64.deb
+Section: Tweaks
+Description: Change themes
+Tag: role::developer
+Author: Sparkdev
+Name: Snowboard Rootless
+Size: 1720180
+MD5sum: B2CB6209764FD1A4A799F0A81177180A
+SHA1: 9AA7373E1CD4D9639B9EF23E52FB154BDACD73B8
+SHA256: 05F875B0BE956B52B9ACDFC1B5E5C2B925320AB1302625080D8C40AA080E5B5F
+
+Package: com.spark.snowboard.effects
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Sparkdev
+Depends: firmware (>=7.0)
+Filename: ./debs/com.spark.snowboard.effects_1.2.0~Beta1_iphoneos-arm64.deb
+Section: Tweaks
+Description: Change themes
+Tag: role::developer
+Author: Sparkdev
+Name: Snowboard Effects Rootless
+Size: 85130
+MD5sum: 83D908A756B30CB189ECEDBFDF98DDD0
+SHA1: A7FB30133C3D578282BBE68F4063098CC4A7F62C
+SHA256: 6A6A70E997BED3E575E3513455255407E4B6846CD33F21F030284312CA148D08
+
+
+Package: com.spark.snowboard.masks
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Sparkdev
+Depends: firmware (>=7.0)
+Filename: ./debs/com.spark.snowboard.masks_1.2.0~Beta1_iphoneos-arm64.deb
+Section: Tweaks
+Description: Change themes
+Tag: role::developer
+Author: Sparkdev
+Name: Snowboard Masks Rootless
+Size: 45100
+MD5sum: C9D739D7A268BE29A673987A2850B01F
+SHA1: 6FA093F031566ED4D465C99954D3BA2D1C715614
+SHA256: E1D1A3A1498CA7AD1A66EB8C1F7CB7E7F813F2134017DFF6D24EDF7A2A352B11
+
+Package: com.lenglengyu.iapstorefugu-rootless
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 384
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.lenglengyu.iapstorefugu-rootless_0.0.2_iphoneos-arm64.deb
+Size: 66058
+MD5sum: 0f7397645ec7ecf0c7bc8182ed1f36a5
+SHA1: d928fd12a03666762fab11502e5eebe8b4acb3fe
+SHA256: 32cde5d73f9fe48c38e64e7b2e734d6dcf218122d60d22b3933ceebc25da8438
+Section: Tweaks
+Description: in-app purcharse rootless Dopamine
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/iapstorefugu.html
+Name: IAPStore-Rootless
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/iapstorefugusileo
+
+Package: login
+Version: 14.04.23-1
+Architecture: all
+Maintainer: uar <*@uar.no>
+Depends: firmware (>= 15.0)
+Replaces: login
+Provides: login (= 14.04.23)
+Filename: ./debs/login_14.04.23-1_all_iphoneos-arm64.deb
+Size: 10478
+MD5sum: 3b0d26fa51c01c381e57cff9dc5e5f45
+SHA1: 39ef71a7fd968f77e77021c619112415b4182b1d
+SHA256: 45058c96c321969f0afa7bd109204fdc5eee3e502e465b3d724b36b8bf77744a
+Section: Administration
+Priority: standard
+Description: fix Session Ended for newterm 3
+Author: Jonathan Levin
+Name: login
+
+Package: xyz.cypwn.filzacrackrootless
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 196
+Depends: firmware (>= 15.0)
+Filename: ./debs/xyz.cypwn.filzacrackrootless_0.0.4.deb
+Size: 47816
+MD5sum: 901a1128be16752383ad28a8550368e3
+SHA1: 4886f22db862f735d4224c51c5568d514609d611
+SHA256: 0569b93e5a1c121baa8eefa55cc8905964d7ab167dd34d79afaee1c4e1766cf4
+Section: Cracks
+Description: Filza and AppsManager activation for free
+Author: Lilliana
+Depiction: https://repo.cypwn.xyz/depiction/1171
+Name: Filza Crack (rootless)
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1171
+
+Package: alias20.bfdecryptor
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 568
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: ./debs/alias20.bfdecryptor_0.0.1.deb
+Size: 67754
+MD5sum: 04b1235e014cc14894568974c01e4269
+SHA1: 7c494580d53d1dddabb1549073644b682c84517f
+SHA256: ae5d4126f98f072817863f037f5a40c791a958e8f76c8789ba4aaf5b7682d62e
+Section: Tweaks
+Description: dump ipa for rootless
+Author: BishopFox
+Name: bfdecryptor
+
+Package: com.rpgfarm.a-font
+Version: 1.9.3-2
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 2476
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: ./debs/com.rpgfarm.a-font_1.9.3-2.deb
+Size: 498270
+MD5sum: 38c8290183a8f14f79232fd3d68bb9fc
+SHA1: 6507f77bd60aef316f5c9b1c91fff0b60d9a0c3f
+SHA256: 9adfded864e4a6eda8873236fc49920fd7f5a5a783355588e87e634d43a4c8a2
+Section: Tweaks
+Description: Change your font!
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Font
+
+Package: me.nepeta.axon
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie
+Installed-Size: 644
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_1.4-1.deb
+Size: 140762
+MD5sum: b23cb378d16ef6ed8bb7553fd2af16cf
+SHA1: 0d45fd68eec361771fc13af38d38da365d8013a6
+SHA256: 71820fd713ee6035b24cbcd41841aadc42bd4387332151ec8864435fa2e10ef6
+Section: Tweaks
+Description: Priority Hub for iOS 15 (rootless/Ellekit)
+Author: Nepeta & Baw Appie
+Name: Axon
