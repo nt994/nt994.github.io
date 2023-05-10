@@ -150,17 +150,4 @@ Description: Priority Hub for iOS 15 (rootless/Ellekit)
 Author: Nepeta & Baw Appie
 Name: Axon
 
-Package: com.ThanhAE
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: @nt994
-Filename: ./debs/com.ThanhAE.deb
-Size: 1236
-MD5sum: 7396c09d4b60ba11ccf217b58708e1dc
-SHA1: 3e847e610d33974e0658722568759e7fbeb328ca
-SHA256: df7df6e04800296adc05bb7ef1d853985a772ef08bbc0d3140e3c83a9e87285c
-Section: Themes
-Description: TN tổng hợp
-Author: @nt994
-Icon: tkajsditkad
-Name: ThanhAE
+
