@@ -150,4 +150,18 @@ Description: Priority Hub for iOS 15 (rootless/Ellekit)
 Author: Nepeta & Baw Appie
 Name: Axon
 
+Package: com.thanhae
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: ThanhNguyen
+Filename: ./debs/com.ThanhAE.deb
+Size: 442028
+MD5sum: eb797ee2bd6275d257a2f98600297d8a
+SHA1: 03bc72f9b928659c4278c9cb0c4aef42b16872a2
+SHA256: 02fd1d54b4b1b79622bb9f5d7185a467c69dd42c142c309809238c3ed200a622
+Section: Themes
+Homepage: nt994.github.io
+Description: Anemon Effect Snowboard
+Author: Thanh Nguyen
+Name: Thanh AE
 
